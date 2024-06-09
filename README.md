@@ -8,7 +8,7 @@ survey form
 This is a survey form about English program. it contains on itself an html file and css file.you can use from this survey form.
 
 ## Demo 📸
- [live Demo] (https://iamfarhatsharefi.github.io/Survey-Form/)
+ [Live Demo](https://iamfarhatsharefi.github.io/Survey-Form/)
 ![Screenshot](./WhatsApp%20Image%202024-06-02%20at%2010.08.09_1a59190d.jpg)
 
 
